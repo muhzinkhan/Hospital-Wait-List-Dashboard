@@ -4,9 +4,9 @@
 This project is a **multi-page interactive Power BI dashboard** designed to visualize and analyze data efficiently. It integrates multiple CSV datasets and provides users with summary insights and a detailed hierarchical tabular view.
 
 ## 📊 Preview
-![page1](Preview\1.png)
+![page1](Preview/1.png)
 
-![page2](Preview\2.png)
+![page2](Preview/2.png)
 
 ## 🛠 Features
 - **Multi-Page Dashboard:**
