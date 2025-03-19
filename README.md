@@ -34,9 +34,3 @@ This project is a **multi-page interactive Power BI dashboard** designed to visu
 3. Ensure the data sources are correctly linked and refresh the dataset.
 4. Explore the interactive dashboard.
 
-## 🤝 Contributing
-Feel free to fork this repository, raise issues, or submit pull requests to enhance the dashboard!
-
-## 📧 Contact
-For any questions or suggestions, reach out via **your.email@example.com** or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
-
