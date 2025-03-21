@@ -28,8 +28,10 @@ This project is a **multi-page interactive Power BI dashboard** designed to visu
 ### Steps to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/powerbi-dashboard.git
+   git clone https://github.com/muhzinkhan/Hospital-Wait-List-Dashboard
    ```
+   or download the [data](/Data/) and the [.pbix](Healthcare%20Dashboard.pbix) file
+
 2. Open the [.pbix](Healthcare%20Dashboard.pbix) file in Power BI Desktop.
 3. Ensure the data sources are correctly linked and refresh the dataset.
 4. Explore the interactive dashboard.
